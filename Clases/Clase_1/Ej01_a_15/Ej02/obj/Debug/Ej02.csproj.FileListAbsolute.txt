@@ -1,0 +1,5 @@
+E:\C#\Clase_1\programa1\ConsoleApplication1\Ej02\bin\Debug\Ej02.exe.config
+E:\C#\Clase_1\programa1\ConsoleApplication1\Ej02\bin\Debug\Ej02.exe
+E:\C#\Clase_1\programa1\ConsoleApplication1\Ej02\bin\Debug\Ej02.pdb
+E:\C#\Clase_1\programa1\ConsoleApplication1\Ej02\obj\Debug\Ej02.exe
+E:\C#\Clase_1\programa1\ConsoleApplication1\Ej02\obj\Debug\Ej02.pdb
