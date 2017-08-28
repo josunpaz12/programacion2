@@ -1,0 +1,6 @@
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\Clase_1\Ej01_a_15\Ej04\bin\Debug\Ej04.exe.config
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\Clase_1\Ej01_a_15\Ej04\bin\Debug\Ej04.exe
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\Clase_1\Ej01_a_15\Ej04\bin\Debug\Ej04.pdb
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\Clase_1\Ej01_a_15\Ej04\obj\Debug\Ej04.exe
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\Clase_1\Ej01_a_15\Ej04\obj\Debug\Ej04.pdb
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\Clase_1\Ej01_a_15\Ej04\obj\Debug\Ej04.csprojResolveAssemblyReference.cache

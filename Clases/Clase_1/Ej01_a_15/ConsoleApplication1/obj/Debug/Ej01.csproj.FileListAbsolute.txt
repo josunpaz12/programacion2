@@ -7,3 +7,6 @@ E:\C#\Clase_1\programa1\ConsoleApplication1\ConsoleApplication1\obj\Debug\Consol
 C:\Users\Josu\Documents\workSpace\programacion2\Clases\Clase_1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
 C:\Users\Josu\Documents\workSpace\programacion2\Clases\Clase_1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\Josu\Documents\workSpace\programacion2\Clases\Clase_1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\Clase_1\Ej01_a_15\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\Clase_1\Ej01_a_15\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\Clase_1\Ej01_a_15\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,5 @@
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\Clase_1\Ej01_a_15\Ej05\bin\Debug\Ej05.exe.config
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\Clase_1\Ej01_a_15\Ej05\bin\Debug\Ej05.exe
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\Clase_1\Ej01_a_15\Ej05\bin\Debug\Ej05.pdb
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\Clase_1\Ej01_a_15\Ej05\obj\Debug\Ej05.exe
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\Clase_1\Ej01_a_15\Ej05\obj\Debug\Ej05.pdb

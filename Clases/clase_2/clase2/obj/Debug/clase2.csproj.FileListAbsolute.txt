@@ -1,0 +1,6 @@
+D:\josu\clase_2\clase2\clase2\bin\Debug\clase2.exe.config
+D:\josu\clase_2\clase2\clase2\bin\Debug\clase2.exe
+D:\josu\clase_2\clase2\clase2\bin\Debug\clase2.pdb
+D:\josu\clase_2\clase2\clase2\obj\Debug\clase2.csprojResolveAssemblyReference.cache
+D:\josu\clase_2\clase2\clase2\obj\Debug\clase2.exe
+D:\josu\clase_2\clase2\clase2\obj\Debug\clase2.pdb

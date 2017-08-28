@@ -1,0 +1,6 @@
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_2\clase2\bin\Debug\clase2.exe.config
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_2\clase2\obj\Debug\clase2.exe
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_2\clase2\obj\Debug\clase2.pdb
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_2\clase2\bin\Debug\clase2.exe
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_2\clase2\bin\Debug\clase2.pdb
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_2\clase2\obj\Debug\Ejercicio11.csprojResolveAssemblyReference.cache

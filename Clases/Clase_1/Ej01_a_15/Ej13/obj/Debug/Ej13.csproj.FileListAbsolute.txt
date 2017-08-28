@@ -1,0 +1,6 @@
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\Clase_1\Ej01_a_15\Ej13\bin\Debug\Ej13.exe.config
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\Clase_1\Ej01_a_15\Ej13\bin\Debug\Ej13.exe
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\Clase_1\Ej01_a_15\Ej13\bin\Debug\Ej13.pdb
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\Clase_1\Ej01_a_15\Ej13\obj\Debug\Ej13.csprojResolveAssemblyReference.cache
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\Clase_1\Ej01_a_15\Ej13\obj\Debug\Ej13.exe
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\Clase_1\Ej01_a_15\Ej13\obj\Debug\Ej13.pdb
