@@ -1,0 +1,9 @@
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_5\Primer_Programa\Primer_Programa\bin\Debug\Primer_Programa.exe.config
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_5\Primer_Programa\Primer_Programa\bin\Debug\Primer_Programa.exe
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_5\Primer_Programa\Primer_Programa\bin\Debug\Primer_Programa.pdb
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_5\Primer_Programa\Primer_Programa\obj\Debug\Primer_Programa.Form1.resources
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_5\Primer_Programa\Primer_Programa\obj\Debug\Primer_Programa.Properties.Resources.resources
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_5\Primer_Programa\Primer_Programa\obj\Debug\Primer_Programa.csproj.GenerateResource.Cache
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_5\Primer_Programa\Primer_Programa\obj\Debug\Primer_Programa.exe
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_5\Primer_Programa\Primer_Programa\obj\Debug\Primer_Programa.pdb
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_5\Primer_Programa\Primer_Programa\obj\Debug\Primer_Programa.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\Josu\Documents\workSpace\programacion2\TPs\tp_1\trabajoPractico_1\trabajoPractico_1\bin\Debug\trabajoPractico_1.exe.config
+C:\Users\Josu\Documents\workSpace\programacion2\TPs\tp_1\trabajoPractico_1\trabajoPractico_1\bin\Debug\trabajoPractico_1.exe
+C:\Users\Josu\Documents\workSpace\programacion2\TPs\tp_1\trabajoPractico_1\trabajoPractico_1\bin\Debug\trabajoPractico_1.pdb
+C:\Users\Josu\Documents\workSpace\programacion2\TPs\tp_1\trabajoPractico_1\trabajoPractico_1\obj\Debug\trabajoPractico_1.Properties.Resources.resources
+C:\Users\Josu\Documents\workSpace\programacion2\TPs\tp_1\trabajoPractico_1\trabajoPractico_1\obj\Debug\trabajoPractico_1.csproj.GenerateResource.Cache
+C:\Users\Josu\Documents\workSpace\programacion2\TPs\tp_1\trabajoPractico_1\trabajoPractico_1\obj\Debug\trabajoPractico_1.exe
+C:\Users\Josu\Documents\workSpace\programacion2\TPs\tp_1\trabajoPractico_1\trabajoPractico_1\obj\Debug\trabajoPractico_1.pdb
+C:\Users\Josu\Documents\workSpace\programacion2\TPs\tp_1\trabajoPractico_1\trabajoPractico_1\obj\Debug\trabajoPractico_1.csprojResolveAssemblyReference.cache
+C:\Users\Josu\Documents\workSpace\programacion2\TPs\tp_1\trabajoPractico_1\trabajoPractico_1\obj\Debug\trabajoPractico_1.frmCalculadora.resources

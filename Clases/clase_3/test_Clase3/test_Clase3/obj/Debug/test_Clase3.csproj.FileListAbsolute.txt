@@ -1,0 +1,6 @@
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_3\test_Clase3\test_Clase3\bin\Debug\test_Clase3.exe.config
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_3\test_Clase3\test_Clase3\obj\Debug\test_Clase3.csprojResolveAssemblyReference.cache
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_3\test_Clase3\test_Clase3\bin\Debug\test_Clase3.exe
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_3\test_Clase3\test_Clase3\bin\Debug\test_Clase3.pdb
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_3\test_Clase3\test_Clase3\obj\Debug\test_Clase3.exe
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_3\test_Clase3\test_Clase3\obj\Debug\test_Clase3.pdb

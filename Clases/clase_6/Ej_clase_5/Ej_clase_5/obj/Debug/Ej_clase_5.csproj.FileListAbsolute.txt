@@ -1,0 +1,6 @@
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_6\Ej_clase_5\Ej_clase_5\bin\Debug\Ej_clase_5.exe.config
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_6\Ej_clase_5\Ej_clase_5\bin\Debug\Ej_clase_5.exe
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_6\Ej_clase_5\Ej_clase_5\bin\Debug\Ej_clase_5.pdb
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_6\Ej_clase_5\Ej_clase_5\obj\Debug\Ej_clase_5.csprojResolveAssemblyReference.cache
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_6\Ej_clase_5\Ej_clase_5\obj\Debug\Ej_clase_5.exe
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_6\Ej_clase_5\Ej_clase_5\obj\Debug\Ej_clase_5.pdb

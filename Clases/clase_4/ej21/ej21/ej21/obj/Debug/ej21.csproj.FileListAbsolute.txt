@@ -1,0 +1,6 @@
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_4\ej21\ej21\ej21\bin\Debug\ej21.exe.config
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_4\ej21\ej21\ej21\bin\Debug\ej21.exe
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_4\ej21\ej21\ej21\bin\Debug\ej21.pdb
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_4\ej21\ej21\ej21\obj\Debug\ej21.csprojResolveAssemblyReference.cache
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_4\ej21\ej21\ej21\obj\Debug\ej21.exe
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_4\ej21\ej21\ej21\obj\Debug\ej21.pdb

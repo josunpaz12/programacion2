@@ -1,0 +1,6 @@
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_4\ej19\ej19\bin\Debug\ej19.exe.config
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_4\ej19\ej19\obj\Debug\ej19.csprojResolveAssemblyReference.cache
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_4\ej19\ej19\bin\Debug\ej19.exe
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_4\ej19\ej19\bin\Debug\ej19.pdb
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_4\ej19\ej19\obj\Debug\ej19.exe
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_4\ej19\ej19\obj\Debug\ej19.pdb

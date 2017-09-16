@@ -1,0 +1,2 @@
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_3\ej20\Geometria\Geometria\bin\Debug\Geometria.exe.config
+C:\Users\Josu\Documents\workSpace\programacion2\Clases\clase_3\ej20\Geometria\Geometria\obj\Debug\Geometria.csprojResolveAssemblyReference.cache
